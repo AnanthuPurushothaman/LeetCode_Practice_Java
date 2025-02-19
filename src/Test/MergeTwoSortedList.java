@@ -11,7 +11,7 @@ public class MergeTwoSortedList {
 
 		// TODO Auto-generated method stub
 
-		List<Integer> list1 = new <Integer>ArrayList();
+		List<Integer> list1 = new ArrayList<Integer>();
 
 		list1.add(1);
 		list1.add(2);

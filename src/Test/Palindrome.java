@@ -21,6 +21,7 @@ public class Palindrome {
 			
 			String h= String.valueOf(t.charAt(i));
 			st.add(h);
+			
 		}
 		
 		for(int j=t.length()-1;j>=0;j--) {

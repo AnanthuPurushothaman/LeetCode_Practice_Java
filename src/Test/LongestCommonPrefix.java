@@ -23,7 +23,7 @@ public class LongestCommonPrefix {
 		
 		
 		int i=0;
-		List<String> splitedElements=new <String>ArrayList();;
+		List<String> splitedElements=new ArrayList<String>();;
 		
 		for(i=0;i<firstSet.length;i++) {
 			
